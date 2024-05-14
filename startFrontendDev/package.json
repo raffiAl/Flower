@@ -1,0 +1,12 @@
+{
+  "name": "startfrontenddev",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "kuncisuksesituapasibro?": "node app.js",
+    "test2": "jest"
+  },
+  "author": "",
+  "license": "ISC"
+}
